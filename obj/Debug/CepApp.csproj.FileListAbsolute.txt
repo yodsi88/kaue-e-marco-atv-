@@ -1,0 +1,32 @@
+D:\Etec\Etec\2_Modulo\Materias\Desenvolvimento de Software\CepApp\CepApp\bin\Debug\CepApp.exe.config
+D:\Etec\Etec\2_Modulo\Materias\Desenvolvimento de Software\CepApp\CepApp\bin\Debug\CepApp.exe
+D:\Etec\Etec\2_Modulo\Materias\Desenvolvimento de Software\CepApp\CepApp\bin\Debug\CepApp.pdb
+D:\Etec\Etec\2_Modulo\Materias\Desenvolvimento de Software\CepApp\CepApp\obj\Debug\CepApp.csproj.AssemblyReference.cache
+D:\Etec\Etec\2_Modulo\Materias\Desenvolvimento de Software\CepApp\CepApp\obj\Debug\CepApp.Form1.resources
+D:\Etec\Etec\2_Modulo\Materias\Desenvolvimento de Software\CepApp\CepApp\obj\Debug\CepApp.Properties.Resources.resources
+D:\Etec\Etec\2_Modulo\Materias\Desenvolvimento de Software\CepApp\CepApp\obj\Debug\CepApp.csproj.GenerateResource.cache
+D:\Etec\Etec\2_Modulo\Materias\Desenvolvimento de Software\CepApp\CepApp\obj\Debug\CepApp.csproj.CoreCompileInputs.cache
+D:\Etec\Etec\2_Modulo\Materias\Desenvolvimento de Software\CepApp\CepApp\obj\Debug\CepApp.exe
+D:\Etec\Etec\2_Modulo\Materias\Desenvolvimento de Software\CepApp\CepApp\obj\Debug\CepApp.pdb
+D:\Etec\Etec\2_Modulo\Materias\Desenvolvimento de Software\CepApp\CepApp\bin\Debug\MosaicoSolutions.ViaCep.dll
+D:\Etec\Etec\2_Modulo\Materias\Desenvolvimento de Software\CepApp\CepApp\bin\Debug\Newtonsoft.Json.dll
+D:\Etec\Etec\2_Modulo\Materias\Desenvolvimento de Software\CepApp\CepApp\bin\Debug\Newtonsoft.Json.pdb
+D:\Etec\Etec\2_Modulo\Materias\Desenvolvimento de Software\CepApp\CepApp\bin\Debug\Newtonsoft.Json.xml
+D:\Etec\Etec\2_Modulo\Materias\Desenvolvimento de Software\CepApp\CepApp\obj\Debug\CepApp.csproj.CopyComplete
+C:\Users\WAF58\Downloads\CepApp\CepApp\bin\Debug\CepApp.exe.config
+C:\Users\WAF58\Downloads\CepApp\CepApp\bin\Debug\CepApp.exe
+C:\Users\WAF58\Downloads\CepApp\CepApp\bin\Debug\CepApp.pdb
+C:\Users\WAF58\Downloads\CepApp\CepApp\bin\Debug\MosaicoSolutions.ViaCep.dll
+C:\Users\WAF58\Downloads\CepApp\CepApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\WAF58\Downloads\CepApp\CepApp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\WAF58\Downloads\CepApp\CepApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\WAF58\Downloads\CepApp\CepApp\obj\Debug\CepApp.csproj.AssemblyReference.cache
+C:\Users\WAF58\Downloads\CepApp\CepApp\obj\Debug\CepApp.exe.config
+C:\Users\WAF58\Downloads\CepApp\CepApp\obj\Debug\CepApp.frmCEP.resources
+C:\Users\WAF58\Downloads\CepApp\CepApp\obj\Debug\CepApp.frmLogin.resources
+C:\Users\WAF58\Downloads\CepApp\CepApp\obj\Debug\CepApp.Properties.Resources.resources
+C:\Users\WAF58\Downloads\CepApp\CepApp\obj\Debug\CepApp.csproj.GenerateResource.cache
+C:\Users\WAF58\Downloads\CepApp\CepApp\obj\Debug\CepApp.csproj.CoreCompileInputs.cache
+C:\Users\WAF58\Downloads\CepApp\CepApp\obj\Debug\CepApp.csproj.Up2Date
+C:\Users\WAF58\Downloads\CepApp\CepApp\obj\Debug\CepApp.exe
+C:\Users\WAF58\Downloads\CepApp\CepApp\obj\Debug\CepApp.pdb
